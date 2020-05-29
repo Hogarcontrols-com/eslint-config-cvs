@@ -1,0 +1,12 @@
+{
+  "name": "eslint-config-cvs",
+  "version": "1.0.0",
+  "description": "ESLint configuration used by CVS Technologies",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/computervisionvietnam/eslint-config-cvs.git"
+  },
+  "author": "CVS Technologies",
+  "license": "Apache 2.0",
+  "private": true
+}
