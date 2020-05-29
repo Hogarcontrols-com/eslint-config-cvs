@@ -1,12 +1,12 @@
 {
   "name": "eslint-config-cvs",
   "version": "1.0.0",
-  "description": "ESLint configuration used by CVS Technologies",
+  "description": "ESLint configuration used by Hogar Controls",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/computervisionvietnam/eslint-config-cvs.git"
+    "url": "git+https://github.com/Hogarcontrols-com/eslint-config-cvs.git"
   },
-  "author": "CVS Technologies",
+  "author": "Hogar Controls Inc",
   "license": "Apache 2.0",
   "private": true
 }
